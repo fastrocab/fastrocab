@@ -6,7 +6,7 @@
 
 <!-- HERO -->
 
-<img src="./assets/fastrocab-logo.png" width="300" alt="FastroCab"/>
+<img src="./fastrocab-logo.png" width="300" alt="FastroCab"/>
 
 <br/><br/>
 
