@@ -262,7 +262,7 @@ READY FOR THE NEXT RIDE?
 
 <br/><br/><br/>
 
-<img src="./assets/fastrocab-logo.png" width="210"/> <br/>
+<img src="./fastrocab-logo.png" width="210"/> <br/>
 YOUR RIDE. YOUR WAY.
 
 FAST • RELIABLE • SMART
