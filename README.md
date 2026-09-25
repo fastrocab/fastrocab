@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/fastrocab-logo.png" width="340" alt="FastroCab Logo"/>
+<img src="./fastrocab-logo.png" width="340" alt="FastroCab Logo"/>
 
 <br/><br/>
 
