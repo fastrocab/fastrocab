@@ -1,25 +1,31 @@
+<!-- ============================================================ -->
+<!--                 FASTROCAB  •  OFFICIAL PROFILE               -->
+<!-- ============================================================ -->
+
 <div align="center">
-  <img src="./fastrocab-logo.png" width="260" alt="FastroCab"/>
-  
+  <img src="./fastrocab-logo.png" width="240" alt="FastroCab Logo"/>
+
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=1800&pause=500&color=FFC107&center=true&vCenter=true&width=980&height=85&lines=FASTROCAB;YOUR+RIDE.+YOUR+WAY.;MOBILITY+REDEFINED.;RIDERS+%2B+CAPTAINS+%2B+TECH"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=1600&pause=400&color=FFC107&center=true&vCenter=true&width=1000&height=90&lines=FASTROCAB;YOUR+RIDE.+YOUR+WAY.;MOBILITY+REDEFINED.;ENGINEERED+FOR+THE+ROAD"/>
 
   <br>
 
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9F?style=for-the-badge&labelColor=000000"/>
+  <!-- STATUS BAR -->
+  <img src="https://img.shields.io/badge/●_ONLINE-00FF9F?style=for-the-badge&labelColor=000000"/>
   <img src="https://img.shields.io/badge/ENGINE-RUNNING-FFC107?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/SECURITY-ENABLED-FFC107?style=for-the-badge&labelColor=000000"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VIEWS&color=FFC107&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SECURITY-ACTIVE-FFC107?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/SERVICES-ALL_GREEN-FFC107?style=for-the-badge&labelColor=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=FFC107&style=for-the-badge"/>
 
   <br><br>
 
   <a href="https://fastrocab.site">
-    <img src="https://img.shields.io/badge/🌐_LAUNCH_FASTROCAB-FFC107?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/🌐_LAUNCH_PLATFORM-FFC107?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=FFC107"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:fastrocab.service@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_GET_IN_TOUCH-FFC107?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/✉️_CONTACT_TEAM-FFC107?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=FFC107"/>
   </a>
 </div>
 
@@ -28,65 +34,133 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=900&pause=300&color=AAAAAA&center=true&vCenter=true&width=900&lines=%3E+boot+sequence+initiated...;%3E+loading+mobility+core...;%3E+syncing+rider+network...;%3E+syncing+captain+fleet...;%3E+backend+services+online...;%3E+security+layer+active...;%3E+FastroCab+ready."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=800&pause=250&color=888888&center=true&vCenter=true&width=920&lines=%3E+booting+fastrocore...;%3E+loading+mobility+modules...;%3E+syncing+rider+network...;%3E+syncing+captain+fleet...;%3E+activating+security+layer...;%3E+realtime+engine+online...;%3E+system+ready."/>
 </div>
 
 <br>
 
-████████████████████████████████████████████████████████████
-█                                                          █
-█                     F A S T R O C A B                    █
-█                          🚕                              █
-█                                                          █
-█              YOUR RIDE  •  YOUR WAY  •  YOUR RULES       █
-█                                                          █
-█         FAST • INTELLIGENT • RELIABLE • SCALABLE         █
-█                                                          █
-████████████████████████████████████████████████████████████
-  Transportation that actually feels modern.
+████████████████████████████████████████████████████████████████
+█                                                              █
+█                                                              █
+█                        F A S T R O C A B                     █
+█                              🚕                              █
+█                                                              █
+█                   YOUR RIDE  •  YOUR WAY                     █
+█                                                              █
+█            FAST  •  INTELLIGENT  •  RELIABLE  •  SCALABLE    █
+█                                                              █
+█                                                              █
+████████████████████████████████████████████████████████████████
+
+  A complete mobility ecosystem built for the modern road.
   
-    FastroCab is a full mobility ecosystem designed to connect
+    Connecting riders, captains and operations through
 
-    riders, captains and operations through clean technology.
+    clean design, powerful technology and real-time intelligence.
   
 
-▸ 01  EXPERIENCE LAYER
-▸ 02  SYSTEM ARCHITECTUREtext┌──────────────────────┐
-                        │     FASTROCAB CORE   │
-                        │         🚕           │
-                        └──────────┬───────────┘
-                                   │
-          ┌────────────────────────┼────────────────────────┐
-          │                        │                        │
-          ▼                        ▼                        ▼
-   ┌─────────────┐          ┌─────────────┐          ┌─────────────┐
-   │    RIDER    │          │   CAPTAIN   │          │    ADMIN    │
-   │     👤      │          │     🚘      │          │     🖥️      │
-   └──────┬──────┘          └──────┬──────┘          └──────┬──────┘
-          │                        │                        │
-          └────────────────────────┼────────────────────────┘
-                                   │
-                    ┌──────────────┴──────────────┐
-                    │                             │
-                    ▼                             ▼
-             ┌─────────────┐               ┌─────────────┐
-             │     WEB     │               │   MOBILE    │
-             │      🌐     │               │      📱     │
-             └──────┬──────┘               └──────┬──────┘
-                    │                             │
-                    └──────────────┬──────────────┘
-                                   │
-                                   ▼
-                        ┌──────────────────────┐
-                        │       BACKEND        │
-                        │         ⚙️           │
-                        └──────────┬───────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-              ▼                    ▼                    ▼
-           🔐 AUTH              🚕 RIDES             🗄️ DATA
-▸ 03  CORE PRINCIPLES
+
+
+
+▸ 01   EXPERIENCE LAYER
+
+      
+
+      
+      
+
+
+      Instant booking
+
+      Live journey tracking
+
+      Seamless experience
+
+
+      SEARCH → BOOK → RIDE
+      
+
+
+    
+      
+
+      
+      
+
+
+      Smart ride requests
+
+      Full trip control
+
+      Consistent earnings
+
+
+      REQUEST → ACCEPT → EARN
+      
+
+
+    
+      
+
+      
+      
+
+
+      Complete visibility
+
+      Real-time control
+
+      Effortless scaling
+
+
+      MONITOR → MANAGE → GROW
+      
+
+
+    
+
+
+
+▸ 02   SYSTEM ARCHITECTURE
+text┌─────────────────────┐
+                              │    FASTROCAB CORE   │
+                              │         🚕          │
+                              └──────────┬──────────┘
+                                         │
+            ┌────────────────────────────┼────────────────────────────┐
+            │                            │                            │
+            ▼                            ▼                            ▼
+     ┌─────────────┐              ┌─────────────┐              ┌─────────────┐
+     │    RIDER    │              │   CAPTAIN   │              │    ADMIN    │
+     │      👤     │              │      🚘     │              │      🖥️     │
+     └──────┬──────┘              └──────┬──────┘              └──────┬──────┘
+            │                            │                            │
+            └────────────────────────────┼────────────────────────────┘
+                                         │
+                          ┌──────────────┴──────────────┐
+                          │                             │
+                          ▼                             ▼
+                   ┌─────────────┐               ┌─────────────┐
+                   │     WEB     │               │   MOBILE    │
+                   │      🌐     │               │      📱     │
+                   └──────┬──────┘               └──────┬──────┘
+                          │                             │
+                          └──────────────┬──────────────┘
+                                         │
+                                         ▼
+                              ┌─────────────────────┐
+                              │       BACKEND       │
+                              │         ⚙️          │
+                              └──────────┬──────────┘
+                                         │
+                 ┌───────────────────────┼───────────────────────┐
+                 │                       │                       │
+                 ▼                       ▼                       ▼
+              🔐 AUTH                 🚕 RIDES                🗄️ DATA
+
+
+
+▸ 03   CORE PRINCIPLES
 
 
 
@@ -97,59 +171,109 @@
 
 
 
-▸ 04  TECH ENGINE
-The stack powering every ride
 
 
 
 
+▸ 04   TECHNOLOGY ENGINE
+
+  The stack powering every single journey
+  
+
+
+
+  
 
 
 
 
-▸ 05  PRODUCT SUITE
-▸ 06  LIVE TERMINALBashfastrocab@core:~$ system status --full
+▸ 05   PRODUCT SUITE
 
-[████████████████████████████████] 100%
+      🌐 Web Platform
+      Complete rider & captain experience in the browser.
 
-✓ Rider Network ............... ACTIVE
-✓ Captain Fleet ............... ONLINE
-✓ Matching Engine ............. RUNNING
-✓ Realtime Tracking ........... LIVE
-✓ Auth & Security ............. LOCKED
-✓ Admin Console ............... READY
+      Live maps • Instant booking • Trip history
+    
+      ⚙️ Backend Core
+      High-performance APIs, authentication,
 
-────────────────────────────────────────────
- PLATFORM        FASTROCAB
- DOMAIN          fastrocab.site
- ENGINE          ● RUNNING
- SERVICES        ● ALL GREEN
- SECURITY        ● ENABLED
-────────────────────────────────────────────
+      ride matching and realtime services.
+    
+      🖥️ Admin Control Center
+      Full operational dashboard.
 
-🚕 System ready. Road is open.
-▸ 07  BUILD ACTIVITY
+      Users • Captains • Rides • Analytics
+    
+      📱 Mobile Experience
+      Built for the road.
 
-
+      Rider mode + Captain mode in one ecosystem.
+    
 
 
 
+▸ 06   LIVE SYSTEM STATUS
+Bashfastrocab@core:~$ system --status --full
+
+[████████████████████████████████████] 100%
+
+✓ Rider Network ...................... ACTIVE
+✓ Captain Fleet ...................... ONLINE
+✓ Matching Engine .................... RUNNING
+✓ Realtime Tracking .................. LIVE
+✓ Authentication Layer ............... SECURED
+✓ Admin Console ...................... READY
+✓ Security Services .................. ENABLED
+
+────────────────────────────────────────────────────
+  PLATFORM           FASTROCAB
+  DOMAIN             fastrocab.site
+  ENGINE STATUS      ● RUNNING
+  ALL SERVICES       ● GREEN
+  SECURITY           ● FULLY ACTIVE
+  UPTIME             ● STABLE
+────────────────────────────────────────────────────
+
+🚕 FastroCab is ready for the road.
 
 
-▸ 08  CONTRIBUTION GRAPH
+
+▸ 07   DEVELOPMENT METRICS
+
+  
+  
+
+
+
+  
+
+
+
+
+▸ 08   ACTIVITY GRAPH
+
+  
 
 
 
 IDEA → DESIGN → BUILD → SHIP → 🚀
 
-▸ 09  CONTRIBUTION SNAKE
 
 
 
-Every commit pushes FastroCab forward.
+▸ 09   CONTRIBUTION SNAKE
+
+  
 
 
-THE ROAD IS WAITING
+
+  Every commit moves the platform forward.
+
+
+
+
+
+THE ROAD IS OPEN
 
 
 
@@ -157,7 +281,7 @@ THE ROAD IS WAITING
 
   
 
- 
+  
 
   
 
@@ -174,7 +298,7 @@ YOUR RIDE. YOUR WAY.
 FAST • RELIABLE • SMART
 
 
-FastroCab © 2026
+FastroCab © 2026 • Built for the road ahead
 
 
 
