@@ -1,7 +1,4 @@
-Yeh lo latest updated premium + heavy version of your FastroCab GitHub Profile README.
-Bas YOUR_USERNAME replace kar dena aur fastrocab-logo.png upload kar dena.
-
-Markdown<!-- ============================================================ -->
+<!-- ============================================================ -->
 <!--                 FASTROCAB  •  OFFICIAL PROFILE               -->
 <!-- ============================================================ -->
 
